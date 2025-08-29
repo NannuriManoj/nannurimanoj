@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+This+is+MANOJ;+An+Tech+Enthusiast+🔆;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
 </p>
-🎓I'm a 3rd year CSE student at RMKEC<br><br>🌱 Currently learning Data Structures and Algorithms<br><br>
+🎓I'm an Associate Engineer<br><br>🌱 Currently learning DevOps and Cloud<br><br>
 
 
 # 📊 GitHub Stats:
