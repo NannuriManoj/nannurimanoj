@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=180&section=header&text=MANOJ&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=180&section=header&text=Hey there 👋, I'm Manoj&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h2 align="center">Hey there 👋, I'm Manoj</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0D8ECE&size=26&center=true&vCenter=true&width=650&height=60&lines=Associate+Engineer;Tech+Enthusiast;DevOps+%26+Cloud+Learner;Loves+Building+Projects;Problem+Solver">
