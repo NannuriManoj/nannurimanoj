@@ -43,14 +43,20 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NannuriManoj&theme=prussian&hide_border=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NannuriManoj&theme=prussian&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NannuriManoj&theme=prussian&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NannuriManoj&theme=prussian&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NannuriManoj&theme=prussian&hide_border=true&layout=compact" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NannuriManoj&theme=prussian&hide_border=true&layout=compact" />
+</p>
 
 ---
 
@@ -65,7 +71,7 @@
 ## 👀 Profile Views  
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NannuriManoj/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=NannuriManoj&label=Profile%20Views&color=0d8ece&style=flat-square" />
 </p>
 
 ---
