@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NannuriManoj&theme=prussian&hide_border=true&include_all_commits=true" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
