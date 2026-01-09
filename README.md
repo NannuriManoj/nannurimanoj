@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=180&section=header&text=Learning%20By%20Building&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=180&section=header&text=Welcome%20Aboard&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="center">Hey there 👋, I'm Manoj</h2>
 
