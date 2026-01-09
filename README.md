@@ -1,87 +1,74 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=180&section=header&text=MANOJ&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm MANOJ</h1>
+<h2 align="center">Hey there 👋, I'm Manoj</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0D8ECE&size=28&center=true&vCenter=true&width=650&height=70&lines=Associate+Engineer;Tech+Enthusiast+%F0%9F%94%86;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Loves+Building+Projects+%F0%9F%9B%A0%EF%B8%8F;Problem+Solver+%F0%9F%95%B5%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D8ECE&size=26&center=true&vCenter=true&width=650&height=60&lines=Associate+Engineer;Tech+Enthusiast;DevOps+%26+Cloud+Learner;Loves+Building+Projects;Problem+Solver">
 </p>
 
 ---
 
-## 💫 About Me  
+## 💫 About Me
 
-🎓 **Associate Engineer** with a strong foundation in software development  
-🚀 Passionate about **DevOps, Cloud, and System Design**  
-🛠️ Love building real-world projects and experimenting with new tech  
+🎓 Associate Engineer with a passion for backend systems  
+🚀 Actively learning **DevOps & Cloud technologies**  
+🛠️ Enjoy building practical, real-world projects  
 🧠 Curious learner & consistent problem solver  
 
 ---
 
-## 🌱 Currently Exploring  
+## 🌱 Currently Exploring
 
-- ☁️ Cloud Platforms (AWS basics, services & architecture)  
-- ⚙️ DevOps Tools & CI/CD pipelines  
-- 🐳 Docker, Linux & Automation  
-- 📦 Backend systems & scalable deployments  
+- ☁️ AWS (Core services & architecture)
+- ⚙️ CI/CD pipelines
+- 🐳 Docker & containerization
+- 🧑‍💻 Linux & automation basics
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-**Languages & Scripting**  
-`Python` `JavaScript` `Bash`  
+**Languages**  
+`Python` `JavaScript` `Bash`
 
 **Tools & Platforms**  
-`Git` `GitHub` `Docker` `Linux` `MySQL` `Power BI`  
+`Git` `GitHub` `Docker` `Linux` `MySQL` `Power BI`
 
-**Currently Learning**  
-`AWS` `CI/CD` `DevOps Practices`
+**Focus Areas**  
+`DevOps` `Cloud` `Automation`
 
 ---
 
-## 📊 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NannuriManoj&theme=prussian&hide_border=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NannuriManoj&theme=prussian&hide_border=true" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NannuriManoj&theme=prussian&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NannuriManoj&theme=prussian&hide_border=true&include_all_commits=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity  
+## 🐍 Contribution Activity
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NannuriManoj&label=Profile%20Views&color=0d8ece&style=flat-square" />
 </p>
 
 ---
 
-## 🤝 Contribute  
+## 🚀 What I Believe In
 
-All the apps and projects here are **completely free to use** 🚀  
-Feel free to **fork, star ⭐, raise issues, or contribute** — every bit helps!
+- Learning by building, not just reading  
+- Writing clean, maintainable code  
+- Growing consistently, one commit at a time  
 
 ---
+
+## 🤝 Contribute
+
+All projects here are **free and open-source** 🚀  
+Feel free to fork, star ⭐, or contribute.
 
 <p align="center">
   💙 Thanks for stopping by! Let’s build something awesome together.
