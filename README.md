@@ -1,65 +1,70 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=180&section=header&text=Welcome%20Aboard&fontSize=44&fontColor=ffffff&animation=fadeIn" />
-
-<h2 align="center">Hey there 👋, I'm Manoj</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=160&section=header&text=Hey%2C+I'm+Manoj+👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0D8ECE&size=26&center=true&vCenter=true&width=650&height=60&lines=Associate+Engineer;Tech+Enthusiast;DevOps+%26+Cloud+Learner;Loves+Building+Projects;Problem+Solver">
+  <b>Backend developer</b><br/>
+  I build production-style systems — not just "make it work" code.
 </p>
-
----
-
-## 💫 About Me
-
-🎓 Associate Engineer with a passion for backend systems  
-🚀 Actively learning **DevOps & Cloud technologies**  
-🛠️ Enjoy building practical, real-world projects  
-🧠 Curious learner & consistent problem solver  
-
----
-
-## 🌱 Currently Exploring
-
-- ☁️ AWS (Core services & architecture)
-- ⚙️ CI/CD pipelines
-- 🐳 Docker & containerization
-- 🧑‍💻 Linux & automation basics
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Python` `JavaScript` `Bash`
+**Backend**
+`TypeScript` `JavaScript` `Node.js` `Fastify`
 
-**Tools & Platforms**  
-`Git` `GitHub` `Docker` `Linux` `MySQL` `Power BI`
+**Database**
+`PostgreSQL` `Raw SQL`
 
-**Focus Areas**  
-`DevOps` `Cloud` `Automation`
+**DevOps & Infrastructure**
+`Docker` `Docker Compose` `GitHub Actions` `YAML` `Bash Scripting` `Linux`
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+**Tools**
+`Git` `Zod` `JWT` `bcrypt`
 
 ---
 
-## 🚀 What I Believe In
+## 🚀 Featured Project
 
-- Learning by building, not just reading  
-- Writing clean, maintainable code  
-- Growing consistently, one commit at a time  
+### [Task Management API](https://github.com/NannuriManoj/Task-Management)
+
+A production-style REST API — built to understand how real backend systems are structured, not just how to make endpoints work.
+
+**What's inside:**
+- JWT authentication with bcrypt password hashing
+- Role-based access control (owner / member permissions)
+- Raw SQL with PostgreSQL — no ORM, full visibility into every query
+- Layered architecture: routes → controller → service → repository
+- Append-only audit log — every task change is recorded with old and new values
+- Custom SQL migration runner — schema changes are version-controlled
+- Docker Compose with separate dev and prod environments
+- Multi-stage Dockerfile — clean production image with no devDependencies
+- Shell scripting for container entrypoint — waits for Postgres, runs migrations, starts server
+- CI/CD pipeline with GitHub Actions — automated on every push
+
+`TypeScript` `Fastify` `PostgreSQL` `Docker` `GitHub Actions` `YAML` `Bash` `JWT` `RBAC`
 
 ---
 
-## 🤝 Contribute
+## 🔨 Currently Building
 
-All projects here are **free and open-source** 🚀  
-Feel free to fork, star ⭐, or contribute.
+- Completing CI/CD pipeline — GitHub Actions workflow with lint, test, and deploy stages
+- AI-integrated backend — adding LLM capabilities to backend systems
+- Deepening Linux & Bash — automation scripts, process management, shell tooling
 
-<p align="center">
-  💙 Thanks for stopping by! Let’s build something awesome together.
-</p>
+---
+
+## 💡 What I Believe In
+
+- Build real things, not tutorials
+- Understand the why behind every decision
+- Write code that can be read, maintained, and extended
+
+---
+
+## 📬 Let's Connect
+
+Open to **backend roles** and **freelance projects**
+
+[![GitHub](https://img.shields.io/badge/GitHub-NannuriManoj-0d8ece?style=flat&logo=github)](https://github.com/NannuriManoj)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d8ece&height=100&section=footer" />
