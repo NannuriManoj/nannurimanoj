@@ -32,22 +32,22 @@ A production-style REST API focused on reliability, async processing, and real-w
 
 ### ✨ Highlights
 
-**Core Architecture**
+#### 🧱 Core Architecture
 - Layered architecture: routes → controller → service → repository
 - PostgreSQL with raw SQL — full query control (no ORM)
 - Role-based access control (owner / member / admin)
 
-**Data & Reliability**
+#### 🗄️ Data & Reliability
 - Append-only audit logs (full history tracking)
 - Custom SQL migration runner (version-controlled schema)
 - Redis for caching + rate limiting
 
-**Async Processing**
+#### ⚡ Async Processing
 - BullMQ with separate Redis connection
 - Retries with backoff + Dead Letter Queue (DLQ)
 - Handles notifications, activity logs, and scheduling
 
-**Infrastructure & DevOps**
+#### 🛠️ Infrastructure & DevOps
 - Dockerized (dev + prod environments)
 - Multi-stage builds (optimized images)
 - CI/CD with reusable workflows, composite actions, caching, and branch-based deploys
